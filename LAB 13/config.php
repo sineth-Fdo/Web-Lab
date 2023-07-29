@@ -24,24 +24,33 @@
             echo "
             <table>
             <tr>
-                <td></td>
-                <td></td>
+                <td>ID = </td>
+                <td>$id</td>
             </tr>
             <tr>
-                <td></td>
-                <td></td>
+                <td>Name = </td>
+                <td>$name</td>
             </tr>
             <tr>
-                <td></td>
-                <td></td>
+                <td>password = </td>
+                <td>$password</td>
             </tr>
             <tr>
-                <td></td>
-                <td></td>
+                <td>ID = </td>
+                <td>$id</td>
+            </tr>
+            <tr>
+                <td>email = </td>
+                <td>$email</td>
             </tr>
         </table>
             
             ";
+            
+            
+		
+	   
+	?> 
 
 		
 	   
